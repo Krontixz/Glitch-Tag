@@ -1,0 +1,20 @@
+[package]
+name = "glitch_security"
+version = "0.1.0"
+edition = "2026"
+authors = ["Krontix"]
+description = "Security and integrity layer for Glitch Tag"
+
+[lib]
+name = "glitch_security"
+crate-type = ["cdylib"]
+
+[dependencies]
+# No external dependencies needed for the core filter to keep the DLL size tiny
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
