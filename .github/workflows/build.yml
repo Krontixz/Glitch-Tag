@@ -1,0 +1,20 @@
+name: Build Glitch Tag
+on: [push]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Rust Logic
+        run: |
+          cd Logic
+          cargo build --release
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Build App
+        run: dotnet build App/GlitchTag.csproj -c Release
+      - name: Package for Xbox
+        run: makepkg.exe /d ./App/bin/Release /f MicrosoftGame.config
