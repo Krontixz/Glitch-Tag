@@ -1,0 +1,61 @@
+GLITCH TAG NEURAL LINK TERMINAL
+VERSION: 2026.1.0-BETA
+CLASSIFICATION: LEVEL 11 ACCESS
+-------------------------------------------------------------------------------
+
+SECTION I: THE NEURAL LINK (TERMS OF SERVICE)
+
+By initializing this software, you are entering the Glitch-Net. This is a 
+legally binding agreement between you and Krontix. If you do not accept these 
+protocols, terminate your session immediately and uninstall the application.
+
+ACCESS LIMITS: Your unique Neural Identifier is yours alone. You are 
+responsible for every data packet sent from your local machine. If you attempt 
+to exploit the physics engine, use external macro-scripts, or harass other 
+players within the simulation, we will sever your link. This is a permanent 
+ban on your TitleID and no refunds will be issued for the $1.99 entry fee.
+
+SYSTEM INTEGRITY: Do not attempt to reverse-engineer the Rust-based security 
+modules or the C# frontend. Glitch Tag is a simulation of chaos, but the 
+source code is private property. Any unauthorized injection of code or 
+attempt to bypass the integrity check will be flagged and reported to the 
+Microsoft Store safety team for a platform-level review.
+
+AGE GATEWAY: This simulation is rated 11+. If you are under 13, you confirm 
+that you have been granted a parental gateway bypass via your Xbox Family 
+settings. We rely on Microsoft Account authorization to verify your right 
+to inhabit this space.
+
+UPDATES: The Glitch is unstable by design. We may tweak the movement physics, 
+server tick rates, or the glitch-buffer at any time. By staying connected to 
+the network, you agree to accept these environmental changes automatically.
+
+-------------------------------------------------------------------------------
+
+SECTION II: DATA PROTECTION (PRIVACY POLICY)
+
+We do not care who you are in the real world. We only care about your 
+performance and stability within the Glitch.
+
+WHAT WE SEE: We collect your chosen Identifier (Username), your Xbox Live 
+User ID (XUID), and your network latency (ping). This is the bare minimum 
+telemetry required to sync your position with other players.
+
+WHAT WE DO NOT SEE: We do not track your real name, your physical location, 
+your microphone audio, or your private local files. Your local encryption 
+keys and system files stay on your hardware. We do not use any biometric 
+tracking or telemetry that identifies you outside of this game.
+
+THIRD PARTIES: We use Microsoft PlayFab to handle the global leaderboard 
+and matchmaking. They have their own shield protocols, but they only see 
+the same data we see. No data is ever sold to advertisers or third-party 
+data brokers. Your $1.99 purchase is the only way we fund this project.
+
+DELETION: If you want your identifier and match history wiped from the 
+archive, you must contact Krontix through the official developer portal. 
+
+-------------------------------------------------------------------------------
+END OF PROTOCOL
+-------------------------------------------------------------------------------
+SCROLL TO THE ABSOLUTE BOTTOM TO SYNC IDENTITY...
+-------------------------------------------------------------------------------
